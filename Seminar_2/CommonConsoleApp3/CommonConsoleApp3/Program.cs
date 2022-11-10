@@ -17,5 +17,5 @@ if(result == 0)
 }
 else
 {
-    Console.WriteLine($"Не кратно Х {result}");
+    Console.WriteLine($"Не кратно, остаток от деления {result}");
 }
